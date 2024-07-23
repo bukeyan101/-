@@ -1,0 +1,16 @@
+{
+  "src": [
+    "movie/pages/IndexPage",
+    "movie/pages/MovieDetailPage",
+    "movie/pages/MoviePlayPage",
+    "movie/pages/MovieUserPage",
+    "movie/pages/MovieLoginPage",
+    "movie/pages/MovieRegisterPage",
+    "movie/pages/MovieSearchPage",
+    "music/pages/MusicIndexPage",
+    "music/pages/MusicPlayerPage",
+    "music/pages/MusicSearchPage",
+    "music/pages/MusicSharePage",
+    "music/pages/MusicFavoriteListPage"
+  ]
+}
